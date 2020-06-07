@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>记录</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-06-07T05:47:53.132Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>zhou</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新的开始</title>
+    <link href="http://yoursite.com/2020/06/07/new-life/"/>
+    <id>http://yoursite.com/2020/06/07/new-life/</id>
+    <published>2020-06-07T05:46:33.000Z</published>
+    <updated>2020-06-07T05:47:53.132Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+</feed>
